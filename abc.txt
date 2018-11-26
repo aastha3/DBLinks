@@ -1,1 +1,9 @@
-cool. better than vi for sure
+Some datasets are here - 
+https://portals.broadinstitute.org/cgi-bin/cancer/datasets.cgi
+
+
+Most datasets are here - 
+http://software.broadinstitute.org/cancer/software/genepattern/datasets
+
+
+http://biogps.org/dataset/tag/diffuse%20large%20b-cell%20lymphoma/
