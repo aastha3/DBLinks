@@ -7,3 +7,15 @@ http://software.broadinstitute.org/cancer/software/genepattern/datasets
 
 
 http://biogps.org/dataset/tag/diffuse%20large%20b-cell%20lymphoma/
+
+
+Besides the scikit survival analysis methods, there are useful notebooks here - 
+1) http://nbviewer.jupyter.org/urls/umich.box.com/shared/static/elrb0pu8djecxgf17ozahd7gsqzoy1zg.ipynb
+
+2) http://nbviewer.jupyter.org/urls/umich.box.com/shared/static/epie6pcdk1rgb10zcd5v.ipynb
+
+3) http://nbviewer.jupyter.org/urls/umich.box.com/shared/static/hyw87uy0cgc1bi9epg0t.ipynb
+
+4) http://nbviewer.jupyter.org/urls/umich.box.com/shared/static/1187gaws4aip9o5d2o3k.ipynb
+
+5) http://nbviewer.jupyter.org/urls/umich.box.com/shared/static/r7sz17s96cwvemwfix7b.ipynb
